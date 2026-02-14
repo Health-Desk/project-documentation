@@ -39,4 +39,4 @@ LinkedIn: [https://www.linkedin.com/in/your-link  ](https://www.linkedin.com/in/
 
 For Git standards and contribution workflow, please refer to:
 
-https://github.com/your-organisation-name/project-guidelines
+[https://github.com/your-organisation-name/project-guidelines](https://github.com/Health-Desk/project-documentation/blob/main/GitWorkflow.md)
