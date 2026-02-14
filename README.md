@@ -16,22 +16,22 @@ This repository contains general project information and development references.
 
 **Team Lead**  
 Iman Datta  
-LinkedIn: https://www.linkedin.com/in/your-link  
+LinkedIn: www.linkedin.com/in/iman-datta-161615307  
 
 **Co-Lead**  
 Ankita Sarkar  
-LinkedIn: https://www.linkedin.com/in/your-link  
+LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ankita-sarkar-5a776831a/)  
 
 ### Team Members
 
 Arpan Kumar Shaoo  
-LinkedIn: https://www.linkedin.com/in/your-link  
+LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/arpan-kumar-sahoo-668145322/)  
 
 Sambiti Chattyapadhaya  
-LinkedIn: https://www.linkedin.com/in/your-link  
+LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sambiti-chattopadhyay-772742322/)  
 
 Arushi Das  
-LinkedIn: https://www.linkedin.com/in/your-link  
+LinkedIn: [https://www.linkedin.com/in/your-link  ](https://www.linkedin.com/in/arushi-das-27a709329/)
 
 ---
 
